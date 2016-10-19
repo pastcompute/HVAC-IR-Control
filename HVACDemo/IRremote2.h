@@ -208,4 +208,6 @@ class IRsend
 // when received due to sensor lag.
 #define MARK_EXCESS 100
 
+#include "IRremoteInt2.h"
+
 #endif
